@@ -2,7 +2,7 @@
 
 ## Hi there, This is `Swadhin Dhara` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-> ### **Live deployed website link** --> [Netlify link]()
+> ### **Live deployed website link** --> [Netlify link](https://crypto-homepage-project-5.netlify.app/)
 
 <span>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -12,7 +12,7 @@
 </span>
 
 ## How website looks like
-<img src =" "/>
+<img src ="https://github.com/Swadhindhara/crypto-landing-page--project-5/blob/main/Final%20output.png"/>
 
 ## What I have learned in this project?
 - I have learned how to make a beautiful html css template
@@ -28,6 +28,6 @@ Learnt how to center a div or a button
   <a href="https://www.linkedin.com/in/swadhin-dhara-3a402a181/" target="_blank">
     <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin;" />
   </a>
-<a href="https://www.linkedin.com/in/swadhin-dhara-3a402a181/" target="_blank">
+<a href="https://www.instagram.com/dashing_swad/" target="_blank">
     <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=Instagram;" />
   </a>
