@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: url(./assets/bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.navbar{
+    display: flex;
+    background-color: black;
+    height: 80px;
+}
+.logo {
+    width: 60%;
+    margin-top: 17px;
+    margin-left: 70px
+}
+.line{
+    border-left: 2px solid white;
+    margin-left: 40px;
+    height: 60px;
+    margin-top: 10px;
+}
+svg{
+    position: absolute;
+    margin-left: 5px;
+    margin-top: 3px;
+}
+.list{
+    display: flex;
+    color: white;
+    gap: 40px;
+    list-style-type: none;
+    position: absolute;
+    font-family: Montserrat;
+    top: 30px;
+    left: 24%;
+}
+.button-small{
+    position: absolute;
+    left: 90%;
+    color: white;
+    background-color: rgb(219, 15, 219);
+    padding: 10px 20px;
+    border-radius: 6px;
+    font-family: Montserrat;
+    top: 22px;
+    left: 85%;
+}
+.hero{
+    margin: auto;
+    text-align: center;
+    width: 1000px;
+    margin-top: 7%;
+}
+.hero-heading{
+    color: white;
+    font-family: Montserrat;
+    font-size: 81.5px;
+}
+.hero-description{
+    color: white;
+    font-family: Poppins;
+    font-size: 30px;
+}
+.button-large{
+    color: white;
+    background-color:rgb(183, 0, 183);
+    border: none;
+    margin-top: 60px;
+    padding: 13px 28px;
+    font-family: Montserrat;
+    border-radius: 10px;
+    font-size: 25px;
+}
